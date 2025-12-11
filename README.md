@@ -18,11 +18,11 @@
 
 - 📫 How to reach me **christophergayiuman@gmail.com**
 
-- ⚡ Fun fact **Sourdough enthusiast, tinker with computers sometimes**
+- 🍞 Fun fact **Sourdough enthusiast, tinker with computers sometimes**
 
 - 👨‍💻 All of my projects are available at **[https://cgym.dev/](https://cgym.dev/)**
 
-- 📝 I regularly write articles on **[https://cgym.dev/](https://cgym.dev/)**
+- 📝 I recently started to write articles on **[https://cgym.dev/](https://cgym.dev/)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
