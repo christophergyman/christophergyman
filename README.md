@@ -4,6 +4,8 @@
 
 <p align="left"> <a href="https://twitter.com/int32max" target="blank"><img src="https://img.shields.io/twitter/follow/int32max?logo=twitter&style=for-the-badge" alt="int32max" /></a> </p>
 
+- 💔 Majority of my commits at my dayjob are hidden on our internal azure repo 🥀
+
 - 🔭 I'm currently working on **a HFT gateway connection to a trading exchange, building local HFT that I can backtest locally.**
 
 - 🌱 I'm currently learning **C++ 23, C++ 11**
