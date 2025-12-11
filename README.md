@@ -27,9 +27,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://github.com/christophergyman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="christophergyman" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/christophergayiuman/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/christophergayiuman/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/christophergayiuman/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/christophergayiuman/" height="30" width="40" /></a>
 <a href="https://twitter.com/int32max" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="int32max" height="30" width="40" /></a>
-<a href="https://youtube.com/devchrisgyman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="devchrisgyman" height="30" width="40" /></a>
+<a href="https://youtube.com/@devchrisgyman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="devchrisgyman" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
