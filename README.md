@@ -6,7 +6,7 @@
 
 - 💔 Majority of my commits at my dayjob are hidden on our internal azure repo 🥀
 
-- 🔭 I'm currently working on **a HFT gateway connection to a trading exchange, building local HFT that I can backtest locally.**
+- 🔭 I'm currently working on **HFT Gateway Connection Trading system, AI Tooling such as quickVibe**
 
 - 🌱 I'm currently learning **C++ 23, C++ 11**
 
