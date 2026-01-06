@@ -15,4 +15,4 @@
                                    ▪ Native Claude-Code Support
   ```
 
-  [cgym.dev](https://cgym.dev) · [@int32max](https://x.com/int32max)
+  [cgym.dev](https://cgym.dev) · [@int32max](https://x.com/int32max) · [claude-quick](https://github.com/christophergyman/claude-quick)
